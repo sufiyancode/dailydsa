@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrayss/Arrayss.iml" filepath="$PROJECT_DIR$/Arrayss/Arrayss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditions/Conditions.iml" filepath="$PROJECT_DIR$/Conditions/Conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA Java Kunal.iml" filepath="$PROJECT_DIR$/DSA Java Kunal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstProject/FirstProject.iml" filepath="$PROJECT_DIR$/FirstProject/FirstProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods_Functions/Methods_Functions.iml" filepath="$PROJECT_DIR$/Methods_Functions/Methods_Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchingSort/SearchingSort.iml" filepath="$PROJECT_DIR$/SearchingSort/SearchingSort.iml" />
+    </modules>
+  </component>
+</project>
